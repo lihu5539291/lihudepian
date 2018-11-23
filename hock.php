@@ -1,3 +1,3 @@
 <?php
 
-echo 'hock';
+echo exec('git pull');
